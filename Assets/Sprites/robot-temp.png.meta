@@ -1,0 +1,1862 @@
+fileFormatVersion: 2
+guid: 876e56c7ff1d7ad439bba8828e3346a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5392788671425343848
+    second: robot-temp_0
+  - first:
+      213: 4676258545270929207
+    second: robot-temp_1
+  - first:
+      213: 1495323107548628098
+    second: robot-temp_2
+  - first:
+      213: -2738566655681416125
+    second: robot-temp_3
+  - first:
+      213: -4561047202203266600
+    second: robot-temp_4
+  - first:
+      213: -4659543995222008220
+    second: robot-temp_5
+  - first:
+      213: -4136940215533395936
+    second: robot-temp_6
+  - first:
+      213: -8067070487926047489
+    second: robot-temp_7
+  - first:
+      213: -6247055731032600552
+    second: robot-temp_8
+  - first:
+      213: 1918336170407931857
+    second: robot-temp_9
+  - first:
+      213: -5872937161525189237
+    second: robot-temp_10
+  - first:
+      213: -2800594555736746823
+    second: robot-temp_11
+  - first:
+      213: -4056306795792733826
+    second: robot-temp_12
+  - first:
+      213: 5792207554899423634
+    second: robot-temp_13
+  - first:
+      213: 5401105232428819450
+    second: robot-temp_14
+  - first:
+      213: 8993506939815682733
+    second: robot-temp_15
+  - first:
+      213: -5101077236090176572
+    second: robot-temp_16
+  - first:
+      213: -8773048190312162603
+    second: robot-temp_17
+  - first:
+      213: 1238786618163370137
+    second: robot-temp_18
+  - first:
+      213: -6394808923961526891
+    second: robot-temp_19
+  - first:
+      213: -3545878314790764868
+    second: robot-temp_20
+  - first:
+      213: 2833225416530406274
+    second: robot-temp_21
+  - first:
+      213: 5021005374427459255
+    second: robot-temp_22
+  - first:
+      213: -359083018384375296
+    second: robot-temp_23
+  - first:
+      213: 3228511630880775726
+    second: robot-temp_24
+  - first:
+      213: 1012463684260743102
+    second: robot-temp_25
+  - first:
+      213: 7125029770326411951
+    second: robot-temp_26
+  - first:
+      213: 8555646932919072351
+    second: robot-temp_27
+  - first:
+      213: -4824134140243216501
+    second: robot-temp_28
+  - first:
+      213: 1780849849962844639
+    second: robot-temp_29
+  - first:
+      213: 6910660051995107425
+    second: robot-temp_30
+  - first:
+      213: -561948869330493301
+    second: robot-temp_31
+  - first:
+      213: 1081148960407020753
+    second: robot-temp_32
+  - first:
+      213: -8970490133489245053
+    second: robot-temp_33
+  - first:
+      213: 6905998050186675783
+    second: robot-temp_34
+  - first:
+      213: -1350968186568025740
+    second: robot-temp_35
+  - first:
+      213: -7165209987918564965
+    second: robot-temp_36
+  - first:
+      213: 4995056422568772182
+    second: robot-temp_37
+  - first:
+      213: 8904115044245421419
+    second: robot-temp_38
+  - first:
+      213: 3877210877943538188
+    second: robot-temp_39
+  - first:
+      213: -956196881551978066
+    second: robot-temp_40
+  - first:
+      213: -8523353711307492632
+    second: robot-temp_41
+  - first:
+      213: -5171275135128493842
+    second: robot-temp_42
+  - first:
+      213: -1442860040419681078
+    second: robot-temp_43
+  - first:
+      213: 8859501636679048158
+    second: robot-temp_44
+  - first:
+      213: 2070313281486084634
+    second: robot-temp_45
+  - first:
+      213: -2781161886284781369
+    second: robot-temp_46
+  - first:
+      213: 3763959458208147289
+    second: robot-temp_47
+  - first:
+      213: 8222439273535219313
+    second: robot-temp_48
+  - first:
+      213: -2130899041516148874
+    second: robot-temp_49
+  - first:
+      213: -7320396551432414124
+    second: robot-temp_50
+  - first:
+      213: -8265880961848668345
+    second: robot-temp_51
+  - first:
+      213: -2523435275358241952
+    second: robot-temp_52
+  - first:
+      213: -5846846405524568759
+    second: robot-temp_53
+  - first:
+      213: 8135493642855022720
+    second: robot-temp_54
+  - first:
+      213: 6455939520815091445
+    second: robot-temp_55
+  - first:
+      213: -7011049817488712603
+    second: robot-temp_56
+  - first:
+      213: 4577137162017918187
+    second: robot-temp_57
+  - first:
+      213: 586589765247677603
+    second: robot-temp_58
+  - first:
+      213: 6746536234877722137
+    second: robot-temp_59
+  - first:
+      213: -2728277826962769661
+    second: robot-temp_60
+  - first:
+      213: 2741494185115747179
+    second: robot-temp_61
+  - first:
+      213: -8065774606118766946
+    second: robot-temp_62
+  - first:
+      213: -2619948529991246491
+    second: robot-temp_63
+  - first:
+      213: -6967216660278413659
+    second: robot-temp_64
+  - first:
+      213: -9190916633821667049
+    second: robot-temp_65
+  - first:
+      213: -8494858596526189260
+    second: robot-temp_66
+  - first:
+      213: 3878762290282406335
+    second: robot-temp_67
+  - first:
+      213: -7967239278630538560
+    second: robot-temp_68
+  - first:
+      213: 8503487065875059622
+    second: robot-temp_69
+  - first:
+      213: -6302274858382747268
+    second: robot-temp_70
+  - first:
+      213: 6684877387872576511
+    second: robot-temp_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot-temp_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 455
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bef844216186c4ea1c0d7b52c14fb0
+      internalID: -5392788671425343848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 454
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795816b727ea154cab2f6cf8defdcbd
+      internalID: 4676258545270929207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 454
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64f315f3950921468f9769e0d45ca6f
+      internalID: 1495323107548628098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 458
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e064d7af83ab34080930a0fe9514da
+      internalID: -2738566655681416125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 458
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394da2f449c5c3499468cc014c8e00b
+      internalID: -4561047202203266600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 456
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3934c8e30a8b94ba336071500f0352
+      internalID: -4659543995222008220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 456
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df99d14e7fd3f64f896544001912e0f
+      internalID: -4136940215533395936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 454
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ad99ea449ba4458e11982c2507a31
+      internalID: -8067070487926047489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 455
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f879aeaf9cce14fa429b3e9ef6b953
+      internalID: -6247055731032600552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 328
+        width: 37
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5654655c410edd449024ced14d0d9f3
+      internalID: 1918336170407931857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 391
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0192a06f0f0c9f749acad971a5258ea1
+      internalID: -5872937161525189237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 394
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4033f23480aa7544a96d8968eec7998
+      internalID: -2800594555736746823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 391
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913ae55c7452e54d807b1b3cb9c754e
+      internalID: -4056306795792733826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 391
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cea66e64e8e0340afd626ca489d699
+      internalID: 5792207554899423634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 393
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55972b6ffbdac64d9a7cd7898274abe
+      internalID: 5401105232428819450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 392
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edad3436d9861143a16fbb1b823bc60
+      internalID: 8993506939815682733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 390
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a487b2c66de2479cb2d61ab839589
+      internalID: -5101077236090176572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 391
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852fef9c86be3e4cbc47d0352a6bf69
+      internalID: -8773048190312162603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 328
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d64de5fafded4a93fe16656c9d3e6
+      internalID: 1238786618163370137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 328
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d622ef3f512b408dd2d6bbd6133d1
+      internalID: -6394808923961526891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 330
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd409c0e64c735843b4e52254851e1fa
+      internalID: -3545878314790764868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 325
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54429eaddd0f04a428f42ed8c204ff9c
+      internalID: 2833225416530406274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 325
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6376dbf6a5b60c743940e4c16d62bfcd
+      internalID: 5021005374427459255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 326
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389bc633f9a559140b60f0fb8fb34735
+      internalID: -359083018384375296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 329
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a380a98d120c6a429f5494b90b50021
+      internalID: 3228511630880775726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54916dc1c0c0d7e43bb8c0bc1568f9bc
+      internalID: 1012463684260743102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 260
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699bf5839adc45f4f8a4d44f28abe6d3
+      internalID: 7125029770326411951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aada3f5fd37c344ba45bc87cf7ec4c6
+      internalID: 8555646932919072351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 262
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13e64ae7a6ad14c92de294883f80aa
+      internalID: -4824134140243216501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 265
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc15a23461929439b474977196deda
+      internalID: 1780849849962844639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 264
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13efeea7b24e1cb43a29447bb37553df
+      internalID: 6910660051995107425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 263
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50cf22577717f540ba00defe342a7a0
+      internalID: -561948869330493301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 261
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64035d16decd714c9d70c0a0799e874
+      internalID: 1081148960407020753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 263
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815a3071241c63d478e3621c50c59c6e
+      internalID: -8970490133489245053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 261
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa6eecce8d26248bde6ea795c04854
+      internalID: 6905998050186675783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7304c4b30da2066499a3050572c78947
+      internalID: -1350968186568025740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 194
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb295dd3f1d45439239284bc56c881
+      internalID: -7165209987918564965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_37
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 195
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571adcf9cf5fc040ad85cb1701f5cb3
+      internalID: 4995056422568772182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 197
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242713af59b228c4f8f0c6440482c468
+      internalID: 8904115044245421419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 197
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45de06473d1f7d4f9ad92f130b83df5
+      internalID: 3877210877943538188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c127d0431d904c743b188545b79f4c2e
+      internalID: -956196881551978066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 197
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a9d19adeb36142b08d0ef15ff524a
+      internalID: -8523353711307492632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 197
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee131fa9b65f7864285dfb80de533095
+      internalID: -5171275135128493842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_43
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 194
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e34e23d5a2e448ad374ec57ae75d3
+      internalID: -1442860040419681078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535b429354ffa847866e970ea3181d6
+      internalID: 8859501636679048158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_45
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 133
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d17adb3a2b23c7498e15ecbab42bd3e
+      internalID: 2070313281486084634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf2382a3ffc39448add88158a29e31
+      internalID: -2781161886284781369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c79e7fa5ac5e4e8da9c32809dd908
+      internalID: 3763959458208147289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 137
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ddfb0e734705e4fb3910465bdee9b4
+      internalID: 8222439273535219313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_49
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 133
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc70d867208a31459a16113ff8ac7e5
+      internalID: -2130899041516148874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 132
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9de2b87e26d54d99a9a4ba5846db5
+      internalID: -7320396551432414124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 133
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fceaf160a56f4685591432c752ddb
+      internalID: -8265880961848668345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 132
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69ac54b297374141ba7f12b8426d5b8
+      internalID: -2523435275358241952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b1c4761179544a9357e82eef99d58
+      internalID: -5846846405524568759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc6aab6ea597ae4393f9ef145722a8c
+      internalID: 8135493642855022720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_55
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 66
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add4995c0b6f6149b297b852c1423a1
+      internalID: 6455939520815091445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 65
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6a6c7ff09cb449b0110fd3a5c66c1
+      internalID: -7011049817488712603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a178899ceab8304f9f377c54630f550
+      internalID: 4577137162017918187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 66
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714cd383423ea5c4aab02b4a408c4a6c
+      internalID: 586589765247677603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 67
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6030bf23d77baaf439b10e5a46369ed6
+      internalID: 6746536234877722137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_60
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 67
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2d9bed493c1e48a31157ce77043b3
+      internalID: -2728277826962769661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 66
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fece536adbd09145b7995186a939ab8
+      internalID: 2741494185115747179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b6f114945bdd4b8925fac400fc729
+      internalID: -8065774606118766946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9a3642da5719438ff651e616a8644
+      internalID: -2619948529991246491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_64
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9e60c15d46cb74783587072acdb21e
+      internalID: -6967216660278413659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_65
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991d2da7f2702cc48a4bc2726164e805
+      internalID: -9190916633821667049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 6
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e7953e3138c944806ac839f604fb3
+      internalID: -8494858596526189260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0019785ce29214581c668f89e0f5b4
+      internalID: 3878762290282406335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c8929055fdcd4bb819bb4b595aa37
+      internalID: -7967239278630538560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_69
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1715ca58a37574882fe7f4c39960fa
+      internalID: 8503487065875059622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_70
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb99a5e30d49b34599741317e8d0505
+      internalID: -6302274858382747268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-temp_71
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 235
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61140816d3e558b4fa30b012195972b6
+      internalID: 6684877387872576511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e21619d0291b5046ad47fb250b75e3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
