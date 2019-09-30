@@ -4,6 +4,8 @@ public class RobotController : MonoBehaviour
 {
     public float jumpHeight;
     public float moveSpeed;
+    public float fallMultiplier;
+    public float lowJumpMultiplier;
     private bool isJumping = false;
     private bool isMoving = false;
     private Vector2 direction = Vector2.right;
@@ -40,8 +42,17 @@ public class RobotController : MonoBehaviour
 
         if((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow)) && !isJumping)
         {
-            _rigidBody2D.AddForce(new Vector2(0, jumpHeight), ForceMode2D.Impulse);
+            _rigidBody2D.velocity = Vector2.up * jumpHeight;
             isJumping = true;
+        }
+
+        if (_rigidBody2D.velocity.y < 0)
+        {
+            _rigidBody2D.velocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
+        }
+        else if (_rigidBody2D.velocity.y > 0 && !(Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.UpArrow)))
+        {
+            _rigidBody2D.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
 
         _animator.SetBool("isJumping", isJumping);
@@ -50,7 +61,7 @@ public class RobotController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Platforms")
+        if (collision.gameObject.tag == "Platforms")
         {
             isJumping = false;
         }
