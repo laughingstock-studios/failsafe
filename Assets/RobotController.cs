@@ -27,14 +27,15 @@ public class RobotController : MonoBehaviour
         isMoving = false;
         if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
         {
-            transform.Translate(Vector2.left * Time.deltaTime * moveSpeed);
+            _rigidBody2D.MovePosition(_rigidBody2D.position + Vector2.left * Time.deltaTime * moveSpeed);
+            //transform.Translate(Vector2.left * Time.deltaTime * moveSpeed);
             isMoving = true;
             direction = Vector2.left;
             _spriteRenderer.flipX = true;
         }
         else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
-            transform.Translate(Vector2.right * Time.deltaTime * moveSpeed);
+            _rigidBody2D.MovePosition(_rigidBody2D.position + Vector2.right * Time.deltaTime * moveSpeed);
             isMoving = true;
             direction = Vector2.right;
             _spriteRenderer.flipX = false;
