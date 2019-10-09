@@ -8252,7 +8252,6 @@ MonoBehaviour:
   jumpHeight: 8
   moveSpeed: 8
   fallMultiplier: 3
-  lowJumpMultiplier: 4.5
 --- !u!95 &2092091989
 Animator:
   serializedVersion: 3
