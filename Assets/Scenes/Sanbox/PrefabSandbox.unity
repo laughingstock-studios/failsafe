@@ -133,9 +133,9 @@ GameObject:
   - component: {fileID: 26140252}
   - component: {fileID: 26140251}
   - component: {fileID: 26140250}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Tilemap
-  m_TagString: Platforms
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8163,6 +8163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 448840578}
+  - component: {fileID: 448840579}
   m_Layer: 8
   m_Name: GroundCheck
   m_TagString: Untagged
@@ -8178,12 +8179,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 448840577}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.48, z: 0}
+  m_LocalPosition: {x: 0, y: -0.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2092091986}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &448840579
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448840577}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.27
 --- !u!1 &611944291
 GameObject:
   m_ObjectHideFlags: 0
@@ -8269,13 +8286,14 @@ GameObject:
   - component: {fileID: 2092091986}
   - component: {fileID: 2092091985}
   - component: {fileID: 2092091984}
-  - component: {fileID: 2092091989}
   - component: {fileID: 2092091990}
+  - component: {fileID: 2092091989}
   - component: {fileID: 2092091988}
-  - component: {fileID: 2092091992}
+  - component: {fileID: 2092091987}
+  - component: {fileID: 2092091991}
   m_Layer: 8
   m_Name: Robot-Temp
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8367,6 +8385,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2092091987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2092091983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785ae1704661a3447aa6e47dd4819bdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &2092091988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8376,25 +8406,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 2092091983}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d39bf869eb114bb44aa5f35833a20162, type: 3}
+  m_Script: {fileID: 11500000, guid: 379a9cf7e25db13469bb58b311ebead4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 1000
-  m_CrouchSpeed: 0.4
-  m_MovementSmoothing: 0.05
-  m_AirControl: 1
+  m_MaxSpeed: 10
+  m_JumpForce: 400
+  m_CrouchSpeed: 0.36
+  m_AirControl: 0
   m_WhatIsGround:
     serializedVersion: 2
-    m_Bits: 55
-  m_GroundCheck: {fileID: 448840578}
-  m_CeilingCheck: {fileID: 611944292}
-  m_CrouchDisableCollider: {fileID: 2092091990}
-  OnLandEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  OnCrouchEvent:
-    m_PersistentCalls:
-      m_Calls: []
+    m_Bits: 512
 --- !u!95 &2092091989
 Animator:
   serializedVersion: 3
@@ -8427,7 +8448,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.04, y: -0.06}
+  m_Offset: {x: 0.04, y: 0.08}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -8438,20 +8459,21 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.46, y: 1.09}
+  m_Size: {x: 0.46, y: 0.76}
   m_EdgeRadius: 0
---- !u!114 &2092091992
-MonoBehaviour:
+--- !u!58 &2092091991
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092091983}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b3e9e9841c14b04590d0beaf2ecc04c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  controller: {fileID: 2092091988}
-  _animator: {fileID: 2092091989}
-  runSpeed: 40
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.03, y: -0.4}
+  serializedVersion: 2
+  m_Radius: 0.22
